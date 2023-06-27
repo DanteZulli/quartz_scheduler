@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "pet.cron",
+    "type": "java.lang.String",
+    "description": "pet.cron es la variable que se encarga de definir el tiempo de ejecucion del proceso de sincronizacion de mascotas"
+  },
+  {
+    "name": "pet.username",
+    "type": "java.lang.String",
+    "description": "pet.username es la variable que se encarga de definir el usuario de la aplicacion de mascotas (si es que lo hay)"
+  },
+  {
+    "name": "pet.password",
+    "type": "java.lang.String",
+    "description": "pet.password es la variable que se encarga de definir la contrasena de la aplicacion de mascotas (si es que lo hay)"
+  },
+  {
+    "name": "pet.endpoint",
+    "type": "java.lang.String",
+    "description": "pet.endpoint es la variable que almacena el endpoint de la Api de mascotas"
+  },
+  {
+    "name": "pet.resource.pets",
+    "type": "java.lang.String",
+    "description": "pet.resource.pets es la variable que almacena el recurso a consultar de la Api de mascotas"
+  },
+  {
+    "name": "pet.parameter.status",
+    "type": "java.lang.String",
+    "description": "pet.parameter.status es la variable que almacena el parametro de estado de la Api de mascotas"
+  },
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jdbc-url'"
+  }
+]}
